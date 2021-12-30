@@ -1,0 +1,1 @@
+This is the c++ code for the direct mapping simulator which takes the data input like size of ram, cache and word from the user and then check for the cache hit and chache miss, if there is any chache miss then it search from the ram and map it accoring to the direct mapping concept.
